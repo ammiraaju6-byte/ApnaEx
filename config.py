@@ -10,7 +10,7 @@ API_HASH = os.environ.get("API_HASH","3a497e4948565e149af47f0a256e0ef6")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 # ------------------------------------------------
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Studentforce_bot)
-BOT_TEXT = "CHITTI THE EXTRACTOR"
+BOT_TEXT = "GAJJU BHAI KA EXTRACTOR"
 # ------------------------------------------------
 OWNER_ID = int(os.environ.get("OWNER_ID", "5786203022"))
 # ------------------------------------------------
@@ -18,7 +18,7 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "5786203022"))
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002892863048)
 
 # //FORCE_CHANNEL_ID
-CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002892863048) 
+CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002195125473) 
 # ------------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://besib69802:YMOfgvnyjbRgW5qt@cluster0.yzzu2gn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # -----------------------------------------------
